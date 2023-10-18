@@ -1,3 +1,3 @@
-# jref.io - a tutorial on Next.js, Vercel, and Neon.
+# shorteo a new url shortener SaaS using Next.js, Vercel, and Neon.
 
 Coming soon
